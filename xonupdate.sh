@@ -41,7 +41,6 @@ ModpackUpdate()
 {
 if [[ $(date +%u) = 5 ]]
 	then cd "${SSD}" && ./server download-modpack && ./server mod build esk
-	else exit 0
 fi
 }
 
