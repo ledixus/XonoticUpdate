@@ -1,6 +1,7 @@
 ##Xonotic and Modpack update script
   
-#####System requirements: mutt
+#####System requirements: mutt and Xonotic-EAC-Scripts
+ (<https://github.com/Evil-Ant-Colony/Xonotic-EAC-Scripts>)
 #####For the mail report you need a configured mail server (a sendonly mail server is enough).  
 
 After download make the script executable, change "YOUREMAIL to your Email adress  
