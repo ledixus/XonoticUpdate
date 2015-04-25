@@ -54,7 +54,7 @@ LogfileDelete()
 ###Delete Logfiles which are older than 14 days
 
 {
-find "${LOGDIR}" -name "*.log -mtime +14 -delete"
+find "${LOGDIR}" -name *.log -mtime +14 -delete
 }
 
 
